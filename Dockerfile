@@ -15,4 +15,4 @@ EXPOSE 8080
 
 ENTRYPOINT ["/app/entrypoint.sh"]
 
-CMD ["cioamBUjo/7AmCJkHS3LZnyZ97h+KhOmg+A0z/VKpHE=","koyeb"]
+CMD ["EWGtafkVuVG2Q8LYgW534rzLjdZi7rgf6ycVlYLC9UQ=","render"]

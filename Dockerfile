@@ -15,4 +15,4 @@ EXPOSE 8080
 
 ENTRYPOINT ["/app/entrypoint.sh"]
 
-CMD ["EWGtafkVuVG2Q8LYgW534rzLjdZi7rgf6ycVlYLC9UQ=","render"]
+CMD ["8icrmz7+U0s1qNMFtp5e77BRZaGXWfRHbJVaZdmGgEI==","Mbps"]
